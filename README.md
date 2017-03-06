@@ -1,6 +1,6 @@
 # hello-world
 my first github repository
 
-# just for test
+##### just for test
 
-print 'hello-world!'
+> print 'hello-world!'
